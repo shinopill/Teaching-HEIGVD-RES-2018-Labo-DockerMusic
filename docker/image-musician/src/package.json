@@ -1,0 +1,10 @@
+{
+  "name": "musician",
+  "version": "1.0.0",
+  "main": "musician.js",
+  "author": "Florent Piller",
+  "dependencies": {
+    "uuid": "^3.2.1",
+    "dgram": "^1.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auditor",
+  "version": "1.0.0",
+  "main": "auditor.js",
+  "author": "Florent Piller",
+  "dependencies": {
+    "moment": "^2.22.1",
+    "dgram": "^1.0.1",
+    "net": "^1.0.2"
+  }
+}
